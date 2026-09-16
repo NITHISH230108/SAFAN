@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Roommate Compatibility Finder",
+  "description": "A modern 35% functional prototype of an AI-assisted lifestyle-based roommate matching system for a boys hostel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
